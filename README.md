@@ -1,6 +1,14 @@
-python app.py
+### Run the app:
 
+```
+python app.py
+```
+
+Provide Kaggle credentials: 
+
+```
 Enter your Kaggle username:
 Enter your Kaggle API key: 
+```
 
-Running on local URL:  http://127.0.0.1:7860
+Open the local URL:  http://127.0.0.1:7860
