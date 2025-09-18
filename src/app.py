@@ -1,4 +1,3 @@
-import keras._tf_keras
 import numpy as np
 from preprocess import preprocess
 import keras
